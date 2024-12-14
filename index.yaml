@@ -21,7 +21,7 @@ entries:
     type: application
     urls:
     - https://github.com/bhanuprakash678910/helm-charts/mychart2-2.3.4.tgz
-    version: 0.4.0
+    version: 2.3.4
   - apiVersion: v2
     appVersion: 3.0.0
     created: "2023-08-17T04:14:04.298035+05:30"
