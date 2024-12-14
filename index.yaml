@@ -9,7 +9,7 @@ entries:
     name: mychart1
     type: application
     urls:
-    - https://github.com/bhanuprakash678910/helm-charts/mychart1-0.1.0.tgz
+    - https://bhanuprakash678910.github.io/helm-charts/mychart1-0.1.0.tgz
     version: 0.1.0
   mychart2:
   - apiVersion: v2
@@ -20,7 +20,7 @@ entries:
     name: mychart2
     type: application
     urls:
-    - https://github.com/bhanuprakash678910/helm-charts/mychart2-2.3.4.tgz
+    - https://bhanuprakash678910.github.io/helm-charts/mychart2-2.3.4.tgz
     version: 2.3.4
   - apiVersion: v2
     appVersion: 3.0.0
@@ -30,7 +30,7 @@ entries:
     name: mychart2
     type: application
     urls:
-    - https://github.com/bhanuprakash678910/helm-charts/mychart2-4.5.6.tgz
+    - https://bhanuprakash678910.github.io/helm-charts/mychart2-4.5.6.tgz
     version: 4.5.6
   - apiVersion: v2
     appVersion: 2.0.0
@@ -40,5 +40,5 @@ entries:
     name: mychart2
     type: application
     urls:
-    - https://github.com/bhanuprakash678910/helm-charts/mychart2-6.7.8.tgz
+    - https://bhanuprakash678910.github.io/helm-charts/mychart2-6.7.8.tgz
     version: 6.7.8
